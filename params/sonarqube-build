@@ -1,0 +1,2 @@
+NAME=sonarqube-server
+SOURCE_REPOSITORY_URL=https://gitlab.com/mcanoy/sonarqube.git
